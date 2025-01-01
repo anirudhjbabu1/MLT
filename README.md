@@ -3,11 +3,14 @@ Multi-Language Translation
 ```diff 
 - Under Development 👨‍💻🤖
 ```
+-------------------------------------------------------------------------------------------------------------------------------------
 I am planning to build a Multi Language Translator chat bot.
+-------------------------------------------------------------------------------------------------------------------------------------
 Characteristics
 - Take in voice, chat or url as input
 - Convert from one language to your required language
 - specifying the langauage to be converted is only to be mentioned, automatic identification of the language and translation.
+-------------------------------------------------------------------------------------------------------------------------------------
 Use case
 - Factories
 - public place (tourist QA)
