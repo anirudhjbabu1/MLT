@@ -94,9 +94,3 @@ def trans_late():
   except Exception as e:
        messagebox.showerror(("Translater", e))
 ```
-```
-```
-```
-```
-```
-```
